@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the author of the Argument against a standing army to the author of the Balancing letter</title>
+            <author>Trenchard, John, 1662-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63118</idno>
+            <idno type="STC">Wing T2113</idno>
+            <idno type="STC">ESTC R16213</idno>
+            <idno type="EEBO-CITATION">13355314</idno>
+            <idno type="OCLC">ocm 13355314</idno>
+            <idno type="VID">99231</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99231)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 479:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the author of the Argument against a standing army to the author of the Balancing letter</title>
+                  <author>Trenchard, John, 1662-1723.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Trenchard.  Cf. BM.</note>
+                  <note>In answer to the pamphlet by Lord John Somers.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Somers, John Somers, --  Baron, 1651-1716. --  Letter ballancing the necessity of keeping a land-force in times of peace.</term>
+               <term>Standing army --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99231:1"/>
+            <pb facs="tcp:99231:1"/>
+            <p>A LETTER From the AUTHOR of the ARGUMENT AGAINST A Standing Army, To the AUTHOR of the <hi>Balancing Letter.</hi>
+            </p>
+            <q>
+               <p>A Falſe Balance is an Abomination to the Lord, but a Juſt Weight is his Delight,</p>
+               <bibl>Prov. xi. I.</bibl>
+            </q>
+            <q>
+               <p>Vendidit hic auro patriam, Dominumque potentem Impoſuit, Leges fixit pretio, atque refixit.</p>
+               <bibl>Virgil. Æn. L. 6.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:99231:2"/>
+            <pb n="3" facs="tcp:99231:2"/>
+            <head>A <hi>LETTER</hi> from the Author of the Argument againſt a <hi>STANDING ARMY,</hi> to the Author of the Balan<g ref="char:EOLhyphen"/>cing Letter.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THO the Journy-men Scriblers with all their Scurrility can't provoke me to give them an Anſwer, yet when I ſee my ſelf levell'd at in ſuch ſoft Language and Gentleman-like Behaviour, I am the more afraid; <hi>Timeo Danaos, &amp; do<g ref="char:EOLhyphen"/>na ferentes.</hi>
+            </p>
+            <p>You have been pleas'd in your laſt Paragraph to own the Matter to be <q>ſo nice and important, that it ought to be ſeverely examin'd, without falſe Colours and popular Rhetorick;</q> and you are pleas'd to give your ſelf the Character of one <q>zealous for Liberty, a great Adven<g ref="char:EOLhyphen"/>turer for it, and to have great Stake in it.</q> If you are the Gentleman I gueſs you to be, I believe your Stake is now conſiderable; but you being a great Ad<g ref="char:EOLhyphen"/>venturer in getting it, it is not worth magnifying your ſelf for it: which gives me occaſion to ſay. I am not of
+<pb n="4" facs="tcp:99231:3"/>a deſperate Fortune, and what Stake I have being pro<g ref="char:EOLhyphen"/>vided for me by my Anceſtors, I am more afraid of loſing it than if it were my own Acquiſition. And after this ſhort Preface, I will proceed to examine into the matter <hi>without falſe Colours or popular Rheto<g ref="char:EOLhyphen"/>rick.</hi>
+            </p>
+            <p>I think your Letter has ſhew'd theſe three things.</p>
+            <list>
+               <item>1. What you would have.</item>
+               <item>2. How long you would have it.</item>
+               <item>3. For what Reaſons.</item>
+            </list>
+            <p n="1">1ſt. I perceive you would have us believe we have <q>an Honourable Peace to the wonder of the World, and that nothing can hurt us but A nimoſities and Jealouſies amongſt our ſelves:</q> And ſecondly, you would have <q>a Land Force to maintain this Peace.</q> Now, Sir, I muſt beg your Pardon if my Faith differs from yours; for I can't believe we have an Honourable Peace, in caſe we are oblig'd to keep up a Standing Force to maintain it. Peace is a Ceſſation of the Exerciſe of the uſe of Arms, that we may with Safety turn our Swords into Plough-ſhares, and Spears into Pruning-hooks; and the Prayers of the Church commanded by his Ma<g ref="char:EOLhyphen"/>jeſty for Thankſgiving for this Peace, have taken in that very Text: And if this our Peace will not an<g ref="char:EOLhyphen"/>ſwer this Character, it is not ſuch a Peace as you would have us believe we are bleſs'd with. But ſince we have not ſuch a Peace (for you know better than I) I will go on for Argument-ſake with yours, to ſupply this Imperfection in it. You are pleas'd to
+<pb n="5" facs="tcp:99231:3"/>ſay, <hi>Page</hi> 3. when you ſeem to prepare us to conſider of the Neceſſity of a Land Force, <q>You are far from the thought of a STANDING ARMY.</q> Now I'll tell you, Sir, what I apprehend a STANDING ARMY to be; Horſe and Foot rais'd under Com<g ref="char:EOLhyphen"/>miſſion granted by the King, with Swords and Piſtols, Pikes and Muskets, Powder and Ball to kill Men. If you by your <hi>Land Force</hi> mean none of all theſe, I am very impertinent in differing with you. But till you are pleas'd to diſtinguiſh your <hi>Land Force</hi> from this Deſcription, I believe all Men will think you mean the ſame by a LAND FORCE, as I do by a STANDING ARMY; which if you do, then you have declar'd your Thoughts againſt it, and made your ſelf guilty of the moſt apparent Contradiction that ever I ſaw wrote in ſo good a Stile.</p>
+            <p>The next thing you ſhew is, How long you would have theſe LAND FORCES continue, and that is from Year to Year: which puts me in mind of a Covenant us'd in conveying Lands in <hi>Holland,</hi> where<g ref="char:EOLhyphen"/>by the Seller warrants the Land to the Purchaſer for a Year and a Day, which according to their Law, is for ever; and ſo, I ſuppoſe, when you ſay from Year to Year, you mean <hi>in ſecula ſeculorum,</hi> as will appear by and by.</p>
+            <p>The third thing is, for what Reaſons you would have this. And, firſt, <q>you abhor to give his Majeſty a Jealouſy of his People, as if he were not ſafe amongſt them without Guards:</q> But you ſay the Caſe at pre<g ref="char:EOLhyphen"/>ſent is, <q>Whether, conſidering the Circumſtances that
+<pb n="6" facs="tcp:99231:4"/>we and our Neighbours are now in, it may not be prudent and neceſſary for us to keep up a reaſonable Force from Year to Year;</q> and ſo you ſeem to lay a great ſtreſs upon the Faſhion of other Countries. You ſay, <hi>Pag.</hi> 4. <q>The whole World, more particu<g ref="char:EOLhyphen"/>larly our Neighbours, have now got into the miſ<g ref="char:EOLhyphen"/>taken Notion of keeping up a mighty Force; and the moſt powerful of theſe happens to be our next Neighbour, who will very probably keep up great Armies, and we may appear too inviting if we are in an unguarded Condition.</q>
+            </p>
+            <p>Now, Sir, as to the Faſhion of other Countries. I remember that God having declared Laws to the <hi>Iſrae<g ref="char:EOLhyphen"/>lites,</hi> commanded them to keep them, and not to fol<g ref="char:EOLhyphen"/>low or hanker after the Faſhions of other Nations, either in Worſhip or Government. And if we are in the Faſhion of our Neighbours in having an Army, we muſt have their faſhioned Government too. It is the Faſhion of the <hi>F. K.</hi> to have a STANDING ARMY, and it is the Faſhion of his Subjects to be Slaves under that STANDING ARMY. I obſerve Men that are addicted to Faſhions, follow them in every thing. Now to be Freemen under a STANDING ARMY is not the Faſhion of our Neighbours. And I am afraid we ſhall never think our ſelves compleat<g ref="char:EOLhyphen"/>ly in the Faſhion till we have got Wooden Shoes too.</p>
+            <p>But I ſee, Sir, you are not ſo much a Fop as to be in the Faſhion for faſhion ſake, but that you think there is a neceſſity for it; for you are afraid of being invaded
+<pb n="7" facs="tcp:99231:4"/>by our Neighbours, <q>the next and greateſt of whom will probably keep up great Armies.</q> And here by the way before I forget it, I would put you in mind of your Tenure from Year to Year; for I think by this Argu<g ref="char:EOLhyphen"/>ment you would have our Land Force to continue as long as the <hi>French</hi> King is in a miſtaken notion of keep<g ref="char:EOLhyphen"/>ing up great Armies, ſo that from Year to Year is al<g ref="char:EOLhyphen"/>ready become a Phraſe for ever. For my part I ſhould be unwilling to ſtay for any thing I wiſh for till the <hi>French</hi> King disbands his Army. Therefore, Sir, don't draw Men into your Propoſals by ſowing Pillows under them, by ſoft Language, of a <hi>Land Force,</hi> not Stand<g ref="char:EOLhyphen"/>ing Army; <hi>from Year to Year, under the Conſideration of Parliament.</hi> Let us have plain words, and then your Propoſals, according to your own Reaſons, muſt be for a Standing Army in <hi>England,</hi> as long as the <hi>French</hi> King, or any of his Succeſſors, keep up a Standing Army in <hi>France:</hi> you had as good open your Matter fairly at firſt, for every thing elſe is but flouriſh till you come to the Point.</p>
+            <p>Now, Sir, I confeſs I give as little credit to the Words and Leagues of Princes as you do, and depend more upon their Intereſt than Integrity for the perfor<g ref="char:EOLhyphen"/>mance of them, and therefore am not for leading them into Temptations to attack us, and would always have a Defence ſutable to our Danger. Nature hath armed all Creatures with Weapons to oppoſe thoſe that aſſault them, and the Policy of Man hath found out ſeveral Artificial ones for himſelf. Now the ſole Debate be<g ref="char:EOLhyphen"/>tween us is, In whoſe Hands theſe Weapons ſhould be put.</p>
+            <pb n="8" facs="tcp:99231:5"/>
+            <p>Of this matter I have diſcourſed from the 18th to the 26th Page of my <hi>Argument,</hi> which you neither can or do pretend to anſwer, and therefore I refer you thither again: Indeed in your 9th, 10th and 11th Pa<g ref="char:EOLhyphen"/>ges you tell us, <q>That Regular and Diſciplin'd Troops are far ſuperiour to the beſt and ſtrongeſt Militia in the World, admitting this Condition, that there are no Regular or Diſciplin'd Troops in that Militia.</q> But I will make bold to tell you, that a Militia may be as well Diſciplin'd as any Army; nay our own Army, if they were Disbanded, will moſt of them be ſent to the Militia; and I ſuppoſe calling them by a new Name will not make them worſe Soldiers. Now as to your Inſtances in Hiſtory, I ſhall only make this ſmall Ob<g ref="char:EOLhyphen"/>jection to them all, That you are miſtaken in every particular. For the <hi>Perſian</hi> Army was made up of Standing Troops, kept up in the ſeveral Provinces of the Empire, and not of Militia, as you falſly inſinu<g ref="char:EOLhyphen"/>ate: and with theſe Armies they conquered eaſily the ſeveral Principalities which made up their vaſt Empire, and were defended by Standing Armies; but when they came to fight with the <hi>Greek</hi> Militia, all their mighty Armies came to nothing. Of this we have the Inſtances of <hi>Xenophon,</hi> who with ten Thouſand <hi>Greeks</hi> marched three. Thouſand Miles through their Coun<g ref="char:EOLhyphen"/>try in ſpight of a numerous Army obſerving him. Afterwards of <hi>Ageſilaus,</hi> who with a ſmall <hi>Spartan</hi> Mi<g ref="char:EOLhyphen"/>litia had put an end to the <hi>Perſian</hi> Empire, if the Fac<g ref="char:EOLhyphen"/>tions of <hi>Greece</hi> had not call'd him home. The mighty Army of <hi>Xerxes</hi> was deſtroyed by a <hi>Greek</hi> Mili<g ref="char:EOLhyphen"/>tia. Nay the better part of <hi>Alexander</hi>'s Army was
+<pb n="9" facs="tcp:99231:5"/>made up of a Militia taken out of the ſeveral Cities of <hi>Greece.</hi>
+            </p>
+            <p>The Inſtance you give of the <hi>Romans,</hi> makes as much againſt you; for they found more difficulty in conquering a few little Commonwealths about them, who fought by Militias, than <hi>Aſia, Egypt,</hi> and all the Arbitrary Governments they conquered, who fought againſt them with ſtanding Armies. Who will deny that <hi>Caeſar</hi>'s Conqueſts over the <hi>Gallick</hi> Militia, were greater than <hi>Pompey</hi>'s over the <hi>Aſiatick</hi> ſtanding Armies? And whereas you ſay, <hi>Page</hi> 11th, <q>That nothing ſtood before the <hi>Roman</hi> Armies whilſt they were kept under Diſcipline; but when all their Order was broke, and they became a Militia, the Northern Nations in <hi>Eu<g ref="char:EOLhyphen"/>rope,</hi> as well as the <hi>Sarazens</hi> in the Eaſt, overrun the <hi>Roman</hi> Empire;</q> I muſt take leave to ſay, the juſt con<g ref="char:EOLhyphen"/>trary to this is true: for whilſt they ſought by a Militia, they conquer'd the whole World; but afterwards in the time of the Emperours, when they kept up Standing Armies of three hundred and ſixty thouſand Men, as <hi>Tacitus</hi> reckons them, they were overrun by every Barbarous Nation that invaded them.</p>
+            <p>Your Inſtance of <hi>Hannibal</hi> is nothing to the pur<g ref="char:EOLhyphen"/>poſe, for the <hi>Carthaginians</hi> did not beat the <hi>Romans,</hi> but <hi>Hannibal</hi> the <hi>Roman</hi> Generals: He got no Victory but by his own ſingle Conduct; and when the <hi>Romans</hi> fought againſt any other General, they were ſeldom un<g ref="char:EOLhyphen"/>ſucceſsful.</p>
+            <pb n="10" facs="tcp:99231:6"/>
+            <p>The <hi>Turks</hi> alſo met with much more trouble in ſub duing the <hi>Hungarian</hi> and <hi>Epirot</hi> Militias, than all their Empire beſides. <hi>Scanderbeg</hi> with a ſmall Militia came off conſtantly ſucceſsful in two and twenty Battles a<g ref="char:EOLhyphen"/>gainſt their numerous Standing Armies. <hi>Huniades</hi> and his Son <hi>Mathias,</hi> fought always with Militias againſt the <hi>Turkiſh</hi> Standing Armies, and performed ſuch Ac<g ref="char:EOLhyphen"/>tions as Poſterity can hardly believe, and I am ſure were never equall'd by any other Force.</p>
+            <p>And whereas you ſay, <q>the Preſervation of <hi>England</hi> in Queen <hi>Elizabeth</hi>'s time was by accident, and we muſt not always expect to live upon Miracles:</q> I don't find but that Excellent Princeſs, and her Court, were of another Opinion. We don't find her, or her Crea<g ref="char:EOLhyphen"/>tures, after the <hi>Spaniards</hi> were defeated, to uſe this Cant to the Parliament. <q>Gentlemen, you ſee what a Danger you have lately eſcaped, we were preſer<g ref="char:EOLhyphen"/>ved by Providence and Chance, but I hope you will not always expect Miracles: It is neceſſary to keep up a Standing Force, for I can't depend upon the Defence of my People.</q> She ſcorn'd ſuch Traſh, and would have cag'd any evil Counſellor who durſt give her ſuch Advice: She thought her ſelf ſafe in the Affection of her People, though this Gentleman, at above a hundred Years diſtance, tells her the con<g ref="char:EOLhyphen"/>trary.</p>
+            <p>But you ſeem very apprehenſive of being <hi>ſurprized without notice;</hi> and mention, <hi>Page</hi> 5th, the late At<g ref="char:EOLhyphen"/>tempts from <hi>la Hogue</hi> and <hi>Calais;</hi> and that <q>if in a
+<pb n="11" facs="tcp:99231:6"/>time of War and Jealouſie we were ſo near being fa<g ref="char:EOLhyphen"/>tally overrun, without warning or intelligence, it is much more poſſible to ſee ſuch Deſigns laid in times of Sloth and Quiet, when we are under no Fears, and may have no notice of it.</q> Sir, I have no bet<g ref="char:EOLhyphen"/>ter Opinion of our Intelligence during the War, than you have. However the buſineſs of <hi>la Hogue</hi> was the Talk of the <hi>Exchange,</hi> and in all the publick Prints, beſides the Gazette, two Months before it happened: And as to that of <hi>Calais,</hi> His Majeſty, by his extraordinary Care, ſurprized the Enemy with ſeventy Sail on their Coaſts, which they never ex<g ref="char:EOLhyphen"/>pected. And that our Notice ſhould be more difficult in Peace than War, I cannot underſtand, ſince in the latter all Ports are ſhut, and Merchants ſtopt; and in the former the Ports are open, Travellers abroad, Merchants at Sea, and an Embaſſador at their Court.</p>
+            <p>
+               <hi>Page</hi> the 8th, you give a great Character of Arbi<g ref="char:EOLhyphen"/>trary Government, where Men <q>are ruined that fail in performing what is expected from them, in keeping the Secrets that are enjoined them, by which the Prince can execute things in other manner than can be conceived by thoſe that live in free Govern<g ref="char:EOLhyphen"/>ments.</q> I am ſure if Impunity of thoſe who fail in performing their Duty, and in keeping our Secrets, be the Character of a free Government, we are free with a witneſs. But I can't ſee why the puniſhing of them ſhould be inconſiſtent with a free Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <pb n="12" facs="tcp:99231:7"/>
+            <p>And after all, you ſeem to apprehend as ill Conſe<g ref="char:EOLhyphen"/>quences from a STANDING ARMY as I do, as <hi>Page</hi> the 14th, where ſpeaking of the Dangers of it, you ſay, <q>This is a large Field, and Hiſtory is ſo full of Inſtances of this kind, that it will be eaſy to open copiouſly on the Subject. From the Praetorian be gathered to give a very frightful Repreſentation of a STANDING ARMY.</q> And afterwards, <hi>Page</hi> the 15th, <q>I do not deny but ſeveral Inconve<g ref="char:EOLhyphen"/>niences may be apprehended from a STANDING FORCE, and therefore I ſhould not go about to perſwade you to it, if the thing did not ſeem indiſpen<g ref="char:EOLhyphen"/>ſibly neceſſary.</q> Now I ſuppoſe by indiſpenſible Ne<g ref="char:EOLhyphen"/>ceſſity you mean, you are ſure without this Army that our Neighbours will invade us, and that it is impoſſible our Fleets or Militia, however managed, can be able to defend us: whether there is ſuch a neceſſity or not, I refer you to my Argument; and if there is not, you have given up the Queſtion: For you, in effect, admit a certain Slavery on one ſide, and if there is but contingent Ruin on the other, it is eaſy to determine of which ſide the Balance lies. But you ſay that the Parliament ſhall overlook it; but will you be Security the Army ſhall not overlook the Parliament? O but that can't be if they are kept up from Year to Year! <q>
+                  <hi>Caeſar</hi> with all his Ge<g ref="char:EOLhyphen"/>nius could not work his Army to it in leſs than ten Years.</q>
+            </p>
+            <pb n="13" facs="tcp:99231:7"/>
+            <p>Sir, If that be the exact time of corrupting an Ar<g ref="char:EOLhyphen"/>my, pray conſider that ours hath been kept up nine Years already. But I am as far from any Jealouſie of His preſent Majeſty as you are, and yet I am not afraid to ſay, that Army which can do no hurt, can do no good.</p>
+            <p>It is impoſſible to conſider of a STANDING FORCE which ſhall be ſufficient to oppoſe a Fo<g ref="char:EOLhyphen"/>reign Power, without conſidering it at the ſame time ſufficient to ſuppreſs the Subject at home: for they muſt beat thoſe who you ſuppoſe can beat us; and I muſt confeſs I am unwilling to depend on their good Will.</p>
+            <p>Sir, Page 15. you ſeem to think me a Jealous, Melancholy and Timorous Man, overrun with the Spleen; but I fancy my ſelf as free from all this without a Place, as perhaps you are with one. Come don't fear <hi>your Stake,</hi> I dare give you Land Security that you will come off a Winner.</p>
+            <p>And as for the Gallant Gentlemen of the Army, whom you fear will be Loſers, I ſhall be as rea<g ref="char:EOLhyphen"/>dy as you to recompenſe them for their Bravery. But to ſuppoſe our Fleets to be ſurprized and betrayed, our Militia to be recreant, and all our Intelligence, Fidelity and Courage to be lodged in a Standing Army, I muſt confeſs is out of my power.</p>
+            <pb n="14" facs="tcp:99231:8"/>
+            <p>In Page the 8th you ſay, <q>You can't ſee ſome Men grow all on a ſuddain ſuch wonderful Patriots, ſo jealous of the Prerogative, ſuch Zealots for publick Liberty, without remembring what their Behaviour was in the late Reigns.</q> Now I muſt own to you, I am better pleaſed to ſee this, than to ſee ſome Men who were ſuch wonderful Patriots, <hi>&amp;c.</hi> in the laſt Reigns, act the ſame part now as much as in them lies, as the others are ſaid to have done formerly.</p>
+            <p>Before I have done I muſt take notice of one Paſ<g ref="char:EOLhyphen"/>ſage in your 10th Page. You ſay, <q>Whenever the fa<g ref="char:EOLhyphen"/>tal time comes that this Nation grows weary of Liberty, and has neither the Virtue, the Wiſdom, nor the Force to preſerve its Conſtitution, it will deliver up all, let all the Laws poſſible, and all the Bars imaginable be put in the way to it. It is no more poſſible to make a Government immortal, than to make a Man immortal.</q> When I join this to the ſenſible Impreſſions you ſeem to have of the Danger of a Standing Army in the next Line, and yet an indiſpenſible Neceſſity of keeping one, me<g ref="char:EOLhyphen"/>thinks you give broad Hints that you think our time is come. But I doubt not there is Virtue e<g ref="char:EOLhyphen"/>nough yet in <hi>England</hi> to preſerve our Conſtituti<g ref="char:EOLhyphen"/>on, though a wiſer Head than yours deſigned its Ruine.</p>
+            <p>I will conclude in telling you we have a happy Government, where the King hath all the Power ne<g ref="char:EOLhyphen"/>ceſſary to execute the Laws. All Title ariſes upon
+<pb n="15" facs="tcp:99231:8"/>an equal diſtribution of Power; and he that gets an over-balance of Power (for you and I are balan<g ref="char:EOLhyphen"/>cing) takes away the Title from the reſt, and leaves them a Poſſeſſion without a Right, which is a Tenure at the Will of the Lord.</p>
+            <p>Now Sir, if a Parliament ſhould ſubject all the Lands of <hi>England</hi> to this Tenure, I make no doubt your <hi>Stake</hi> and mine would be as ſafe during His Majeſty's Reign, as in our own Poſſeſſion; and yet if you will promiſe me to bring in a Bill to that purpoſe, I am contented that all I have ſaid about a ſtanding Army ſhall go for nothing.</p>
+            <p>Sir, In hopes you will keep up your Correſpon<g ref="char:EOLhyphen"/>dence, I conclude my ſelf</p>
+            <closer>
+               <signed>Your moſt humble Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
